@@ -13,6 +13,7 @@ A full-stack template with Vue.js frontend and Express.js backend.
 - **Authentication**: Ready for implementation
 
 ## Project Structure
+```text
 vue-express-template/
 ├── backend/ # Express API server
 │ ├── app.js
@@ -30,7 +31,7 @@ vue-express-template/
 │ │ └── services/
 │ └── package.json
 └── package.json # Root package.json
-
+```
 
 ## Quick Start
 
